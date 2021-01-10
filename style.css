@@ -9,6 +9,7 @@ span{
 }
 p{
     font-size: 20px;
+    text-align: justify;
 }
 .link-button{
    background-image:linear-gradient(rgb(255, 129, 79),rgb(231, 93, 68)) ;
@@ -17,5 +18,20 @@ p{
    border-radius: 5px;
 color: white;
 font-weight: 500;
+    
+}
+.profile-image{
+    height: 400px;
+    width: 450px;
+}
+.me{
+    width:40%;
+    float: left;
+    border:10px solid white;
+    padding: 40px;
+    padding-left: 5%;
+}   
+#cow{
+    padding-top: 100px;
     
 }
