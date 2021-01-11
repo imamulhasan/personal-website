@@ -20,6 +20,7 @@ color: white;
 font-weight: 500;
     
 }
+
 .profile-image{
     height: 400px;
     width: 450px;
@@ -27,11 +28,33 @@ font-weight: 500;
 .me{
     width:40%;
     float: left;
-    border:10px solid white;
+   
     padding: 40px;
     padding-left:3%;
-}   
-#cow{
-    padding-top: 100px;
-    
+    margin: 10px;
 }
+#profile1{
+    padding-left: 160px;
+    
+    }
+#cow{
+    padding-top:4.5%;
+    padding-left: 7%;
+}
+.img{
+    height: 300px;
+    width: 350px;
+    padding: 10px;
+  
+   
+}
+#font{
+    font-size: 40px;
+}
+#part2{
+    border: 5px solid rgb(207, 205, 205);
+    background-color: rgb(207, 204, 204);
+    border-radius: 20px;
+}
+#part1{
+   
